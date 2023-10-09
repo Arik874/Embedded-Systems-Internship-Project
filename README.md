@@ -1,1 +1,6 @@
-# Emertxe-Embedded-Systems-Internship-Project
+# Emertxe-Embedded-Systems-Internship-Project-
+-PICSIMLAB SIMULATOR
+-XC8 COMPILER
+-MPLAB X IDE 
+-
+`
